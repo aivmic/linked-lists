@@ -1,2 +1,2 @@
 # linked-lists
-Learning how linked lists work
+Learning how linked lists work in java.
